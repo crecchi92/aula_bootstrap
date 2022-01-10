@@ -1,25 +1,9 @@
-body{
-    background-color: rgb(0, 0, 0);
+.navbar {
+    background-color: #09FBDE;
 }
-navbar {
-    background-color: #000000;
+.quem-somos{
+    background-color: aquamarine;
 }
-quem-somos{
-    background-color: rgb(0, 0, 0);
-}
-margin{
+.margin{
     padding-top: 15px;
-}
-.nav-link{
-    text-decoration: cornsilk;
-}
-#quemsomos{
-    color: rgb(255, 255, 255);
-}
-.navbar-nav{
-    color: rgb(255, 255, 255);
-}
-.linha{
-    color: rgb(255, 255, 255);
-    size: 1px;
 }
