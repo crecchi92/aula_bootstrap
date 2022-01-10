@@ -1,9 +1,11 @@
 .navbar {
-    background-color: #09FBDE;
+    background-color: rgb(236, 236, 236);
 }
-.quem-somos{
-    background-color: aquamarine;
+
+.quem-somos {
+    background-color: rgb(38, 241, 38);
 }
-.margin{
-    padding-top: 15px;
+
+.margin {
+    padding-top: 50px;
 }
