@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: rgb(236, 236, 236);
+    background-color: #ececec;
     border-bottom: rgb(0, 0, 0) 1px;
 }
 
 .quem-somos {
-    background-color: rgb(38, 241, 38);
+    background-color: #c9ada7;
     color: white;
 }
 
@@ -18,9 +18,20 @@ body {
 }
 
 .parceiros {
-    background-color: tomato;
+    background-color: #9a8c98;
+    color: white;
 }
 
 .imagens {
     width: 50%;
+}
+
+.serviços {
+    background-color: #4a4e69;
+    color: white;
+}
+
+.bg-footer {
+    background-color: #22223b;
+    color: white;
 }
